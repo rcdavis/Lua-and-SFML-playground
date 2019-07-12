@@ -1,0 +1,18 @@
+<Scene name>
+	<TileMap>FilePath</tileMap>
+	<SpriteList>
+		<Sprite>
+			<Image>FilePath</Image>
+			<Pos x y />
+		</Sprite>
+		...
+	</SpriteList>
+	<TextList>
+		<Text>
+			<Font>FilePath</Font>
+			<Pos x y />
+			<Text>Text String</Text>
+		</Text>
+		...
+	</TextList>
+</Scene>

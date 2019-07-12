@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Font numChars="48" image="NES_SMB_Font.png" fontWidth="8" fontHeight="8" startChar="-" numCols="8" charOffset="1">
+      <Char width="7">-</Char>
+      <Char width="2">.</Char>
+      <Char width="7">/</Char>
+      <Char width="7">0</Char>
+      <Char width="6">1</Char>
+      <Char width="7">2</Char>
+      <Char width="7">3</Char>
+      <Char width="7">4</Char>
+      <Char width="7">5</Char>
+      <Char width="7">6</Char>
+      <Char width="7">7</Char>
+      <Char width="7">8</Char>
+      <Char width="7">9</Char>
+      <Char width="2">:</Char>
+      <Char width="3">;</Char>
+      <Char width="5">Less Than</Char>
+      <Char width="7">=</Char>
+      <Char width="5">Greater Than</Char>
+      <Char width="6">?</Char>
+      <Char width="7">Space</Char>
+      <Char width="7">A</Char>
+      <Char width="7">B</Char>
+      <Char width="7">C</Char>
+      <Char width="7">D</Char>
+      <Char width="7">E</Char>
+      <Char width="7">F</Char>
+      <Char width="7">G</Char>
+      <Char width="7">H</Char>
+      <Char width="6">I</Char>
+      <Char width="7">J</Char>
+      <Char width="7">K</Char>
+      <Char width="6">L</Char>
+      <Char width="7">M</Char>
+      <Char width="7">N</Char>
+      <Char width="7">O</Char>
+      <Char width="7">P</Char>
+      <Char width="7">Q</Char>
+      <Char width="7">R</Char>
+      <Char width="7">S</Char>
+      <Char width="6">T</Char>
+      <Char width="7">U</Char>
+      <Char width="7">V</Char>
+      <Char width="7">W</Char>
+      <Char width="7">X</Char>
+      <Char width="6">Y</Char>
+      <Char width="7">Z</Char>
+</Font>
+
+
+
+
+
